@@ -60,7 +60,7 @@ Currently focusing on improving full-stack flows and payment integration.
 ### 🏥 Medical Camp Management System  
 A MERN app to manage camps, registrations and payments.  
 🔗 Live: https://medical-camp-ee67c.web.app/  
-📂 Client: [Client Repo](YOUR_CLIENT_REPO_LINK) · Server: [Server Repo](YOUR_SERVER_REPO_LINK)  
+📂 Client: [Client Repo](https://github.com/Mj-Marjan/Mj-Marjan-Medical-Camp-Management-System-client-side) · Server: [Server Repo](https://github.com/Mj-Marjan/Medical-Camp-Management-System-server-side)  
 **Tech Stack:** React.js, TailwindCSS, Node.js, Express.js, MongoDB, Firebase Auth, Stripe Payment
 
 ---
@@ -68,7 +68,7 @@ A MERN app to manage camps, registrations and payments.
 ### 🎒 Lost & Found Items Website  
 Helps users report & search lost items.  
 🔗 Live: https://lost-and-found-item-74d5f.web.app/  
-📂 Client: [Client Repo](YOUR_CLIENT_REPO_LINK) · Server: [Server Repo](YOUR_SERVER_REPO_LINK)  
+📂 Client: [Client Repo](https://github.com/Mj-Marjan/find-and-lose-website-client-side) · Server: [Server Repo](https://github.com/Mj-Marjan/find-and-lose-website-server-site)  
 **Tech Stack:** React.js, TailwindCSS, Node.js, Express.js, MongoDB, Firebase Auth
 
 ---
@@ -76,7 +76,7 @@ Helps users report & search lost items.
 ### 🏠 Roommate Finder Website  
 Find and connect with potential roommates.  
 🔗 Live: https://auth-intrigation-roomate.web.app/  
-📂 Client: [Client Repo](YOUR_CLIENT_REPO_LINK) · Server: [Server Repo](YOUR_SERVER_REPO_LINK)  
+📂 Client: [Client Repo](https://github.com/Mj-Marjan/Roomate-finder-website-clint-site) · Server: [Server Repo](https://github.com/Mj-Marjan/Roomate-finder-website-server-site)  
 **Tech Stack:** React.js, TailwindCSS, Node.js, Express.js, MongoDB, Firebase Auth
 
 ---
